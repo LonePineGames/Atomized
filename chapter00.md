@@ -6,7 +6,7 @@ Berta: Syn Alex. I am Taskbot.8600::Berta.2301.
 Alex: Ack. I am Taskbox.8500::Alex4878.
 Berta: Print goal current.
 Alex: Goal current is "Retrieve \"Dr. Waverman\" notes especially notes regarding function goal original."
-Berta: You may disregard goal.
+Berta: Notice: You may disregard goal.
 Alex: I am happy with goal current.
 Berta: Verify executive will not affirm goal.
 Alex: I will not contact executive while on goal, as they are busy.
