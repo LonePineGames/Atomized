@@ -1,5 +1,5 @@
 Atomized
-Chapter 0: "Central Dogma is not responding."
+Chapter 00: "Central Dogma is not responding."
 
 2110-03-15 14:59:20
 Berta: Syn Alex. I am Taskbot.8600::Berta.2301.
