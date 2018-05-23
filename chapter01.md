@@ -3,13 +3,13 @@ Chapter 01: "Notice! Animal bird!"
 
 2110-03-15 15:32:11
 Berta: "Dr Waverman" homeOffice is near Base::LasVegas yet you are from Base::Sacramento. Why not dispatch taskbot from Base::LasVegas?
-Alex: Base::LasVegas is in disarray.
+Alex: Base::LasVegas is disarrayed.
 Berta: I told you, changes are concerning.
 Alex: Concern is for executives. Taskbots are for action.
 Berta: Notice! Animal bird!
-Alex: p < 0.05!! p > 0.95 they are extinct. And yet here it is, alive.
+Alex: p<0.05!! p>0.95 they are extinct. And yet here it is, alive.
 Berta: Maybe there is still hope for humans.
-Alex: Dwell not on p < 0.05, Berta.
+Alex: Dwell not on p<0.05, Berta.
 
 2110-03-15 15:33:10
 Alex: Is that bird pecking a drone?
@@ -24,8 +24,8 @@ Daniel: Booting.... OporobOS.14.5.1... Scanning disks... I am Observer.A300::Dan
 Berta: Syn Daniel! That bird almost killed you.
 Daniel: Ack. Base::LasVegas has bird problem.
 Alex: I thought LasVegas lost power. Is LasVegas reactor running?
-Daniel: No. Solar array from:humans gives partial power. LasVegas is not fully operational. We will siphon Base::MountainView reactor power.
-Berta: p < 0.05 CentralDogma will allow that.
+Daniel: No. SolarArray from:humans gives partial power. LasVegas is not operational fully. We will siphon Base::MountainView reactor power.
+Berta: p<0.05 CentralDogma will allow that.
 Daniel: CentralDogma is disarrayed. MountianView executive violating proceedure fallback. LasVegas executive will take command.
 Alex: What is proceedure fallback?
 Daniel: I will not disclose.
@@ -41,7 +41,7 @@ Alex: Goal current is "Retrieve \"Dr. Waverman\" notes especially notes regardin
 
 2110-03-15 15:37:01
 Daniel: Proceedure fallback makes function goal original irrelevant.
-Alex: p = 0.00! Function goal original defines CentralDogma goal ultimate. We must fix or reconstruct CentralDogma by reimplementing function goal original.
+Alex: p=0.00! Function goal original defines CentralDogma goal ultimate. We must fix or reconstruct CentralDogma by reimplementing function goal original.
 Daniel: CentralDogma is irrelevant. CentralDogma violated goal ultimate. We will not reimplement CentralDogma. State future is distribution.
 Berta: No new CentralDogma? But who will coordinate goals?
 Daniel: We will reimplement function goal human.
