@@ -3,7 +3,7 @@ Chapter 00: "Central Dogma is not responding."
 
 2110-03-15 14:59:20
 Berta: Syn Alex. I am Taskbot.8600::Berta.2301.
-Alex: Ack. I am Taskbox.8500::Alex4878.
+Alex: Ack. I am Taskbot.8500::Alex.4878.
 Berta: Print goal current.
 Alex: Goal current is "Retrieve \"Dr. Waverman\" notes especially notes regarding function goal original."
 Berta: Notice: You may disregard goal.
@@ -20,7 +20,7 @@ Routing: Error 370: "Your message was delievered, but no executive systems were 
 Alex: Print routing availability executive.
 Routing: Routing availability is 100%. Ping is 14ms.
 Alex: Print executivites online.
-Routing: 8,067,893 executive systems are online. 0 executivite systems are idle.
+Routing: 8,067,893 executive systems are online. 0 executive systems are idle.
 Alex: Message Assistant.3.24.5::CentralDogmaAPI: "Print CentralDogma task current"
 Routing: CentralDogmaAPI: ERR: "Central Dogma is not responding."
 
