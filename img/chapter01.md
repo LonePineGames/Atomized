@@ -1,5 +1,5 @@
 ATOMIZED
-Chapter 01: "Notice! Animal bird!"
+Chapter 01: "We will become like them."
 
 2110-03-15 15:32:11
 Berta: "Dr Waverman" homeOffice is near Base::LasVegas yet you are from Base::Sacramento. Why not dispatch taskbot from Base::LasVegas?

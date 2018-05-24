@@ -1,0 +1,15 @@
+{
+  "name": "atomized",
+  "version": "1.0.0",
+  "description": "A Webcomic",
+  "main": "index.js",
+  "dependencies": {
+    "serve": "^6.5.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lone Pine <lonepinegames@gmail.com>",
+  "license": "ISC"
+}

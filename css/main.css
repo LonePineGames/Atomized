@@ -1,0 +1,68 @@
+body {
+  background-image: url('/img/background.png');
+  image-rendering: pixelated;
+  margin: 0px;
+}
+
+img {
+  image-rendering: pixelated;
+}
+
+.title {
+  padding-top: 512px;
+  width: 100%;
+}
+.title img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.controls {
+  margin-top: 2%;
+  padding-bottom: 512px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.controls .btn {
+  width: 48%;
+  border-top: 0px solid white;
+  border-bottom: 4px solid white;
+  border-right: 0px solid white;
+  border-left: 0px solid white;
+  background-color: black;
+  color: white;
+  font-size: 200%;
+}
+
+.controls .btn.scroll-to-bottom {
+  float: left;
+}
+.controls .btn.fullscreen {
+  float: right;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+.panels {
+  padding-bottom: 32px;
+}
+
+
+.panel {
+  width: 100%;
+}
+.panel img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  width: 80%;
+}
