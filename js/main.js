@@ -30,7 +30,7 @@ function toggleFullScreen() {
 
 window.addEventListener('load', function() {
 
-  $("scroll-to-bottom").addEventListener('click', function() {
+  $("skip-to-end").addEventListener('click', function() {
     window.scrollTo(0, document.body.scrollHeight);
   });
 
