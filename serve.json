@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "Atomized/img/:file", "destination": "/img/:file" }
+  ]
+}
