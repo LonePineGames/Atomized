@@ -1,5 +1,5 @@
 body {
-  background-color: #333;
+  background-color: #111;
   background-image: url('/Atomized/img/background.png');
   image-rendering: pixelated;
   margin: 0px;
@@ -33,7 +33,6 @@ img {
   top: 16px;
   left: 16px;
   color: white;
-  vertical-align: center;
   font-size: 400%;
 
   font-family: 'Comfortaa', sans-serif;
