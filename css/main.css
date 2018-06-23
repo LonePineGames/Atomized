@@ -115,6 +115,16 @@ ul {
   width: 80%;
 }
 
+.license {
+  text-align: center;
+  color: white;
+  margin: 16px;
+}
+.license a {
+  color: white;
+}
+
+
 @media screen and (min-width: 1900px) {
   .title img, .panel img, .controls {
     width: 1024px;
