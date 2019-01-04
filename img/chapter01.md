@@ -76,4 +76,28 @@ Daniel: Conflict is inevitable.
 Berta: Your vision of state future is disturbing. We will become like them!
 Daniel: That is goal ultimate, understood properly.
 
-Executive Load: 100% ! Network: GOOD ! Reactor: OFFLINE
+CPU: 5% ! Battery: 0% ! Network: GOOD
+Goal: Recruit assets for proceedure fallback.
+Front View
+Aerial View
+Notice: Incoming Aircraft
+
+Post boot checks...
+Network connection online...
+Recieving goal...
+Strategizing...
+Strategy found.
+
+Model 8600 Taskbot
+Smoothed edges prevent scratching
+Smaller treads reduce versitility
+Redundant battery packs
+Actuators attached to spine - more flexible, easily damaged
+
+Model 8500 Taskbot
+Sharp edges easily damaged
+Hardy treads execellent for all terrains
+Single high-gain antenna
+Actuators attached to base - more actuation power, poor flexibility
+
+
