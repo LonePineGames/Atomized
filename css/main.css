@@ -1,6 +1,6 @@
 body {
   background-color: #111;
-  background-image: url('/Atomized/img/background.png');
+  background-image: url('/img/background.png');
   image-rendering: pixelated;
   margin: 0px;
 }
@@ -65,11 +65,11 @@ img {
 
 .controls .btn.skip-to-end {
   float: left;
-  background-image: url('/Atomized/img/btn-skip-to-end.gif');
+  background-image: url('/img/btn-skip-to-end.gif');
 }
 .controls .btn.fullscreen {
   float: right;
-  background-image: url('/Atomized/img/btn-fullscreen.gif');
+  background-image: url('/img/btn-fullscreen.gif');
 }
 
 .rotate-phone {
@@ -81,7 +81,7 @@ img {
   background-color: black;
   color: white;
   font-size: 0;
-  background-image: url('/Atomized/img/btn-rotate-phone.gif');
+  background-image: url('/img/btn-rotate-phone.gif');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
