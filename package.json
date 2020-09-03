@@ -4,7 +4,7 @@
   "description": "A Webcomic",
   "main": "index.js",
   "dependencies": {
-    "serve": "^8.1.2"
+    "serve": "^10.1.2"
   },
   "devDependencies": {},
   "scripts": {
